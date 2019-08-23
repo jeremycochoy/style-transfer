@@ -1,5 +1,7 @@
 # Style Transfer
 
+![A simple dog with style from "The Scream" painting.](example.png)
+
 Welcom to machine learning.
 
 This repository contain learning material for style transfer algorithms.
